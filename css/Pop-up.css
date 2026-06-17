@@ -5,7 +5,8 @@
       font-style: normal;
       margin: 0;
       background-color: #f5f7fa;
-      color: #1e2a5a;
+      /* ===== Changed font colour to white for better visibility ===== */
+      color: #ffffff;
       line-height: 1.6;
       text-align: center;
      }
